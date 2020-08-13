@@ -165,7 +165,7 @@ body {
 
 }
 .category-tile:hover { 
-  transform: translate(0px,15px);
+  
 }
 .category-tile span {
   position: absolute;
@@ -180,7 +180,8 @@ body {
   opacity: .8;
 }
 .category-tile:hover {
-  box-shadow: 0 1px 5px 1px #cccccc;
+  box-shadow: 0 1px 2px 1px #060606;
+  transform: translate(0px,15px);
 }
 
 #menu-categories-title + div {
