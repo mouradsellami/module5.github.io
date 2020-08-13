@@ -164,9 +164,6 @@ body {
   transition: transform 1s;
 
 }
-.category-tile:hover { 
-  
-}
 .category-tile span {
   position: absolute;
   bottom: 0;
