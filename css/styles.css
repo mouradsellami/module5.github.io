@@ -161,6 +161,11 @@ body {
   width: 200px;
   height: 200px;
   margin: 0 auto 15px;
+  transition: transform 1s;
+
+}
+.category-tile:hover { 
+  transform: translate(0px,15px);
 }
 .category-tile span {
   position: absolute;
